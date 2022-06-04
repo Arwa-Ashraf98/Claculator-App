@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AdvancedCalculator</string>
+    <string name="the_result_will_be_shown_here">the result will be shown here</string>
+    <string name="the_input_will_be_here">the input will be here</string>
+    <string name="complete">\"COMPLETE .. \"</string>
+    <string name="plz_enter_op">plz enter the operation</string>
+
+
+</resources>
